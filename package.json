@@ -3,8 +3,14 @@
   "engines": {
     "node": "8"
   },
+  "scripts": {
+    "test" : "jest",
+    "test_jest" : "jest",
+    "test_mocha" : "mocha"
+  },
   "devDependencies": {
     "@sap/node-jwt": "^1.4.13",
-    "jest": "^24.5.0"
+    "jest": "^24.5.0",
+    "mocha": "^6.0.2"
   }
 }
