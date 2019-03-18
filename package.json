@@ -1,0 +1,10 @@
+{
+  "name": "jest-jwt",
+  "engines": {
+    "node": "8"
+  },
+  "devDependencies": {
+    "@sap/node-jwt": "^1.4.13",
+    "jest": "^24.5.0"
+  }
+}
