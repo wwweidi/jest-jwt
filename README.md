@@ -22,3 +22,7 @@ Running the test with jest produces this issue:
 While running the same test with mocha works fine.
 
 https://jestjs.io/docs/en/troubleshooting did not help so far
+
+
+This issue sounds very similar:
+https://github.com/facebook/jest/issues/7480
